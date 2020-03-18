@@ -12,7 +12,7 @@ And here is the key:
 ```java
 String key = "NQhmgUXvfIWRosBkZclAejDtyp";
 ```
-Notice that there ARE uppercase letter in the key. This key isn't correct yet. To fix it, you will need to sort the letters by ASCII value (using whatever sorting algorithm you wish). After doing this, you can convert the letters all to lowercase, and then use it as your key.
+Notice that there ARE uppercase letters in the key. This key isn't correct yet. To fix it, you will need to sort the letters by ASCII value (using whatever sorting algorithm you wish). After doing this, you can convert the letters all to lowercase, and then use it as your key.
 
 After finding the correct key, you can then decode the output string.
 
